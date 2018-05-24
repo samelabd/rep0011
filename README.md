@@ -10,3 +10,6 @@ What is happen after checkout !
 
 
 another update after add ffbranch
+
+
+add merge from this point from ffbranch to master
